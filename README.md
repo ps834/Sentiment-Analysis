@@ -1,0 +1,2 @@
+# Sentiment-Analysis
+Our objective is to built a predictive model for Yelp Data to classify reviews as good(0) or bad(1) based on the user comment. As per the text analysis, the longer the length of the comment, the better is the review. The predictive model is trained using Multinomial Naive Bayes as it gives the best accuracy for data used. It will successfully predict a comment given by the reviewer as good(1) or bad(0) with an accuracy of 81.25%
